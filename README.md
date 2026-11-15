@@ -10,9 +10,9 @@ The tools we used to make this game are godot, github, pixelorama, spritebuff.co
 
 We also modeled our bouncy ball charecter after the bouncy ball from toy story.
 
-Art and assets were created by liam carlson aka willybilly on git. 
+Art, lvl 1 design, and assets were created by liam carlson aka willybilly on git. 
 
-script, level design, ball charecter design, and godot work was done by me (jules kingsland aka gamingwithjules on git and itch)
+script, lvl 2 design, ball charecter design, and godot work was done by me (jules kingsland aka gamingwithjules on git and itch)
 
 some of the script was godot script templates, most if not all were slightly altered by me. 
 
